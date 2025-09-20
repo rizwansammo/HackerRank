@@ -1,0 +1,4 @@
+3
+Weird
+24
+Not Weird
